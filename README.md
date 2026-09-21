@@ -5,7 +5,7 @@
 > [!WARNING]
 > ### 🛑 CRITICAL STEP: REMOVE YOUR WINDOWS HELLO
 > You **MUST** remove your Windows PIN, and Face ID / Windows Hello **BEFORE** running this script. If you skip this, you will be locked out of your account after the reboot.
-
+> If "Remove" button at pin-code is grayed out disable option "For improved security, only allow Windows Hello sign-in for Microsoft accounts on this device" in sign-in options additional settings(below password options) or sign-in with local account.
 ---
 
 ## 🚀 How to Use
@@ -38,7 +38,7 @@
 > [!WARNING]
 > ### 🛑 ВАЖНЫЙ ШАГ: УБЕРИТЕ ВЕСЬ WINDOWS HELLO
 > Вы **ДОЛЖНЫ** убрать ваш ПИН, Face ID / Windows Hello **ПЕРЕД** запуском скрипта. Если вы этого не сделаете, вы не сможете войти в систему после перезапуска.
-
+> Если кнопка "Удалить" на пин-коде горит серой: отключите опцию "Для повышения безопасности разрешите вход Windows Hello для учетных записей Майкрософт на этом устройстве" в дополнительных параметрах настроек "Варианты входа" или войдите с локальной учётной записью.
 ---
 
 ## 🚀 Как использовать
