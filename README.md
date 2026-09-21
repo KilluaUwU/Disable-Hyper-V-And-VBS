@@ -1,6 +1,6 @@
 # Disable-Hyper-V-And-VBS
 
-[English](https://github.com/KilluaUwU/Disable-Hyper-V-And-VBS/tree/main#english)
+[English](https://github.com/KilluaUwU/Disable-Hyper-V-And-VBS#english)
 [Русский](https://github.com/KilluaUwU/Disable-Hyper-V-And-VBS#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
 
 # ENGLISH
