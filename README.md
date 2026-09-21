@@ -27,6 +27,7 @@
 
 ## 🚨 If VBS and Hyper-V reenable after pc restart
 
+> [!WARNING]
 > DisableAll script will auto-startup on pc launch.
 
 1. Right-click EnableAll.bat and select "Run as Administrator".
@@ -59,6 +60,7 @@
 
 ## 🚨 Если VBS и Hyper-V снова активны после перезапуска пк
 
+> [!WARNING]
 > Скрипт для отключения VBS и Hyper-V будет запускаться автоматически вместе с ПК.
 
 1. Правой кнопкой мыши по AutorunDisableOnWindowsStartup.bat и выберите "Запуск от имени Администратора".
