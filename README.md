@@ -39,6 +39,9 @@
 2. Wait and restart PC after it asks for restart.
 3. Press F3 on start screen if it asks (both times)
 
+
+
+
 # РУССКИЙ
 > [!WARNING]
 > ### 🛑 ВАЖНЫЙ ШАГ: УБЕРИТЕ ВЕСЬ WINDOWS HELLO
