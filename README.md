@@ -35,7 +35,7 @@
 > [!WARNING]
 > DisableAll script will auto-startup on pc launch.
 
-1. Right-click EnableAll.bat and select "Run as Administrator".
+1. Right-click AutorunDisableOnWindowsStartup.bat and select "Run as Administrator".
 2. Wait and restart PC after it asks for restart.
 3. Press F3 on start screen if it asks (both times)
 
