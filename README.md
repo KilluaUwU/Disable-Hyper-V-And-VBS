@@ -39,6 +39,7 @@
 2. Wait and restart PC after it asks for restart.
 3. Press F3 on start screen if it asks (both times)
 
+>To remove auto-startup run Remove_Autorun.bat as Administrator.
 
 
 
@@ -78,3 +79,5 @@
 1. Правой кнопкой мыши по AutorunDisableOnWindowsStartup.bat и выберите "Запуск от имени Администратора".
 2. Подождите пока скрипт не попросит перезапустить ПК.
 3. Во время запуска ПК могут появляться окна с текстом, нажимайте F3 пока они не пропадут.
+
+>Для удаления автозапуска запустите Remove_Autorun.bat от имени администратора.
