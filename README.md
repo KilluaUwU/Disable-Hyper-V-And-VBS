@@ -21,6 +21,7 @@
 4. Wait and restart PC after it asks for restart. Will look like this:
 <img width="985" height="514" alt="image" src="https://github.com/user-attachments/assets/c1cc2627-c3e4-4d88-9493-201250670d85" />
 5. Press F3 on start screen when it asks (both times)
+> If DisableAll.bat didn't fix issues, run fixit.exe and follow the same instructions.
 
 ## ❌ To enable VBS and Hyper-V back
 
@@ -62,6 +63,7 @@
 4. Подождите пока скрипт не попросит перезапустить ПК. Будет выглядеть так:
 <img width="985" height="514" alt="image" src="https://github.com/user-attachments/assets/9c3b9255-e78e-4860-8218-4a203268f07d" />
 5. Во время запуска появятся окна с текстом, нажимайте F3 пока они не пропадут
+> Если DisableAll.bat файл не исправил ошибки, запустите fixit.exe и проследуйте тем же инструкциям.
 
 ## ❌ Для включения VBS и Hyper-V обратно
 
