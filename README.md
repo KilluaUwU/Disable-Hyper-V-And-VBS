@@ -87,3 +87,17 @@
 3. Во время запуска ПК могут появляться окна с текстом, нажимайте F3 пока они не пропадут.
 
 >Для удаления автозапуска запустите Remove_Autorun.bat от имени администратора.
+
+# Disable KPTI
+
+# ENGLISH
+
+1. Download [KPTI](https://github.com/KilluaUwU/Disable-Hyper-V-And-VBS/releases/download/KPTI-Disable/KPTI.bat)
+2. Right-click KPTI.bat and select "Run as Administrator".
+3. Wait and restart PC.
+
+# РУССКИЙ
+
+1. Загрузите [KPTI](https://github.com/KilluaUwU/Disable-Hyper-V-And-VBS/releases/download/KPTI-Disable/KPTI.bat)
+2. Правой кнопкой мыши по KPTI.bat и выберите "Запуск от имени Администратора".
+3. Подождите немного и перезапустите пк.
