@@ -90,7 +90,7 @@
 
 # Disable KPTI
 
-> ENGLISH
+## ENGLISH
 
 ### 🚀 How to Use
 
@@ -98,7 +98,7 @@
 2. Right-click KPTI.bat and select "Run as Administrator".
 3. Wait and restart PC.
 
-> РУССКИЙ
+## РУССКИЙ
 
 ### 🚀 Как использовать
 
