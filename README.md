@@ -4,7 +4,7 @@
 
 [Русский](https://github.com/KilluaUwU/Disable-Hyper-V-And-VBS#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)
 
-# ENGLISH
+# 🇬🇧 ENGLISH
 
 > [!WARNING]
 > ### 🛑 CRITICAL STEP: REMOVE YOUR WINDOWS HELLO
@@ -49,7 +49,7 @@
 
 
 
-# РУССКИЙ
+# 🇷🇺 РУССКИЙ
 > [!WARNING]
 > ### 🛑 ВАЖНЫЙ ШАГ: УБЕРИТЕ ВЕСЬ WINDOWS HELLO
 > Вы **ДОЛЖНЫ** убрать ваш ПИН, Face ID / Windows Hello **ПЕРЕД** запуском скрипта. Если вы этого не сделаете, вы не сможете войти в систему после перезапуска.
@@ -87,10 +87,11 @@
 3. Во время запуска ПК могут появляться окна с текстом, нажимайте F3 пока они не пропадут.
 
 >Для удаления автозапуска запустите Remove_Autorun.bat от имени администратора.
+<br/>
 
-# Disable KPTI
+# Disable-KPTI
 
-## ENGLISH
+## 🇬🇧 ENGLISH
 
 ### 🚀 How to Use
 
@@ -98,7 +99,7 @@
 2. Right-click KPTI.bat and select "Run as Administrator".
 3. Wait and restart PC.
 
-## РУССКИЙ
+## 🇷🇺 РУССКИЙ
 
 ### 🚀 Как использовать
 
