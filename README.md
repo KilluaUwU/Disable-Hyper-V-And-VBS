@@ -90,13 +90,17 @@
 
 # Disable KPTI
 
-# ENGLISH
+> ENGLISH
+
+## 🚀 How to Use
 
 1. Download [KPTI](https://github.com/KilluaUwU/Disable-Hyper-V-And-VBS/releases/download/KPTI-Disable/KPTI.bat)
 2. Right-click KPTI.bat and select "Run as Administrator".
 3. Wait and restart PC.
 
-# РУССКИЙ
+> РУССКИЙ
+
+## 🚀 Как использовать
 
 1. Загрузите [KPTI](https://github.com/KilluaUwU/Disable-Hyper-V-And-VBS/releases/download/KPTI-Disable/KPTI.bat)
 2. Правой кнопкой мыши по KPTI.bat и выберите "Запуск от имени Администратора".
